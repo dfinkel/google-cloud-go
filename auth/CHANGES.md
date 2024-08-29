@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.9.2](https://github.com/googleapis/google-cloud-go/compare/auth/v0.9.1...auth/v0.9.2) (2024-08-29)
+
+
+### Bug Fixes
+
+* **auth:** Handle non-Transport DefaultTransport ([#10733](https://github.com/googleapis/google-cloud-go/issues/10733)) ([98d91dc](https://github.com/googleapis/google-cloud-go/commit/98d91dc8316b247498fab41ab35e57a0446fe556)), refs [#10742](https://github.com/googleapis/google-cloud-go/issues/10742)
+
+
+### Documentation
+
+* **auth:** Fix Go doc comment link ([#10751](https://github.com/googleapis/google-cloud-go/issues/10751)) ([015acfa](https://github.com/googleapis/google-cloud-go/commit/015acfab4d172650928bb1119bc2cd6307b9a437))
+
 ## [0.9.1](https://github.com/googleapis/google-cloud-go/compare/auth/v0.9.0...auth/v0.9.1) (2024-08-22)
 
 
